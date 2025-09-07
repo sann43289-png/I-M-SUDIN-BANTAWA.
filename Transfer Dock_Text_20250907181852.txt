@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello Page</title>
+  </head>
+  <body>
+    <h1 id="message"></h1>
+
+    <script>
+      document.getElementById("message").innerText = 
+        "Hello I'm Sudin Bantawa, you're looking at this computer like you saw a ghost.";
+    </script>
+  </body>
+</html>
